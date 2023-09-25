@@ -144,7 +144,7 @@ Test the Dockerized service using the same endpoints as before.
 If desired, you can push the updated Docker image to Docker Hub:
 
 ```bash
-docker push [YOUR_DOCKERHUB_USERNAME]/account-balance-service:latest
+docker push [stephmannel]/account-balance-service:latest
 ```
 
 ### **6. Bonus: Create a Simple HTML Form for Testing**
